@@ -20,7 +20,7 @@ A simple 2D Ping Pong game built with Unity, designed to showcase the fundamenta
 ---
 
 ## 🛠️ Built With
-- **Unity Engine**: Version X.X.X
+- **Unity Engine**: Version 6
 - **C#**: For scripting game mechanics.
 
 ---
